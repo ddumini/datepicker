@@ -1,6 +1,6 @@
 // src/index.tsx
 import { jsx } from "react/jsx-runtime";
-var Hello = () => /* @__PURE__ */ jsx("div", { children: "Hello DatePicker" });
+var DatePicker = () => /* @__PURE__ */ jsx("div", { children: "DatePicker" });
 export {
-  Hello
+  DatePicker
 };

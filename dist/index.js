@@ -20,12 +20,12 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 // src/index.tsx
 var index_exports = {};
 __export(index_exports, {
-  Hello: () => Hello
+  DatePicker: () => DatePicker
 });
 module.exports = __toCommonJS(index_exports);
 var import_jsx_runtime = require("react/jsx-runtime");
-var Hello = () => /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { children: "Hello DatePicker" });
+var DatePicker = () => /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { children: "DatePicker" });
 // Annotate the CommonJS export names for ESM import in node:
 0 && (module.exports = {
-  Hello
+  DatePicker
 });
